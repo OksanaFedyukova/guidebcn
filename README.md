@@ -4,7 +4,7 @@
 
 ## 1. Introducción
 
-![Vista general de la página principal](imagenes\Screenshot 2024-11-03 171804.png)
+![Vista general de la página principal](/imagenes\Screenshot 2024-11-03 171804.png)
 
 Este proyecto consiste en una guía accesible de Barcelona, organizada con categorías para mostrar contenido específico. El objetivo del sitio es crear una experiencia de usuario optimizada, con un diseño responsivo y accesible que usa una paleta de colores neutros en tonos grises.
 
